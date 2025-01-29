@@ -2,7 +2,7 @@
 
 /*
 Plugin Name: Sub Form
-Description: This is a plugin to display 
+Description: This is a plugin to display subcription form
 Version: 1.0.0
 Author: Wisdom
 */
